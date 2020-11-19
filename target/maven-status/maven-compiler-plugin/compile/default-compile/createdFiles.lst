@@ -1,0 +1,7 @@
+com\wxr\handler\FillHandler.class
+com\wxr\config\SwaggerConfig.class
+com\wxr\config\MyBatisPlusConfig.class
+com\wxr\pojo\User.class
+com\wxr\MabatisplusApplication.class
+com\wxr\mapper\UserMapper.class
+com\wxr\contorller\TestUser.class
